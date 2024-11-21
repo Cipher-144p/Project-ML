@@ -22,7 +22,7 @@ The system supports multilingual data (Hindi and English), with appropriate prep
 
 ## Dataset
 
-### File: `randomized_combined_dataset.csv`
+### File: `randomized_combined_dataset.csv` Link::https://drive.google.com/file/d/1dTh7mB2Kads4FGF6lOK0pmTUyJ66NW-2/view?usp=sharing
 - **Columns**:
   - `title`: The headline or text of the news article.
   - `label`: The classification label (1 for Fake News, 0 for Real News).
